@@ -69,7 +69,9 @@ As the  employees use mess  inside the company  for their food consumption they 
 ## Where
 Used in all mess centers running inside a company for employees benefits
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+## How
+It can be used in a mobile app easily or can login in a PC. 
 
 
 # SWOT Analysis
+![swot](https://user-images.githubusercontent.com/94235122/143034352-c9972df2-9a22-4c68-8b66-465b2e71d578.png)
