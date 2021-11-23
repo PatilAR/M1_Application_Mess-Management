@@ -44,7 +44,19 @@ For Customer section
 
 ## Low level requirements
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+1.1 Add new info of customer
+1.2 update into of customer
+1.3 delete info of customer
+2.1 search info /display
+3.1 enter new items
+3.2 Update menu
+3.3 delete menu
+4.1 display menu
+5.1 login with password
+6.1 view my profile
+6.2 search items
+6.3 order item
+ 
 
 
 # 4W's and 1H's
