@@ -103,3 +103,28 @@ Threat from changing technologies
 Financial/cash flow problems
 Weakness that threaten the business.
 
+
+TEST PLAN: Table no: High level test plan
+
+Test ID
+
+H_01 Add /delete /Update Item --------------------- Requirement based
+
+H_02 Calculate bill --------------------- Scenario based
+
+H_03 Login ----------------------- Boundary based
+
+Table no: Low level test plan
+
+Test ID
+
+L_01 Displaying menu's details ---------------------- Requirement based
+
+L_02 Searching details ---------------------- Scenario based
+
+L_03 Exit ---------------------- Boundary based
+
+IMPLEMENTATION![structural di](https://user-images.githubusercontent.com/94235122/143301105-b737abee-0a4c-468c-919f-732c310b608c.png)
+
+
+
