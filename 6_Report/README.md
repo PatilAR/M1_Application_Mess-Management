@@ -1,17 +1,17 @@
-Requirements
+REQUIREMENTS
 
 
-Aim
+AIM
 
 
 To develop a project that helps us effectively manage the canteen in any institution or outsisde a institution. This reduces the burden on thw owner as the paperwork or calculation work is reduce and other essentials to update.
 
-Introduction
+INTRODUCTION
 
 
 Canteen management system will able to provide fast services to their customers by using their management system. However it can be updated as added or deleted any time whenever any customers visited to their canteen shop.
 
-Features
+FEATURES
 
 
 Canteen Management is Basically used for recording number of meals taken by the customers.
@@ -22,7 +22,7 @@ Daily limit on the amount for the usage of canteen facility can be preset.
 Coupons can be used for making transactions.
 Daily menu creation by the caterer is possible using CMS Reduces Wastage of food.
 
-Benefits
+BENEFITS
 
 
 Provides cashless and paperless transactions Provides fast and efficient services Option for multiple caters to operate in a closed environment Different types of report can be taken with respect to customer consumption and with respect to daily sales
@@ -37,6 +37,8 @@ Update item
 Low level requirements
 
 1.1 Successful login 2.1 Add item 2.2 Delete item 3.1 edit item 3.2 display 3.3 Search items
+
+
 
 4W's and 1H's
 
