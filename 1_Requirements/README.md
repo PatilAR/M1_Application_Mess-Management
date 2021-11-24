@@ -1,15 +1,15 @@
 # Requirements
 
 ## Aim
-To develop a project that  helps us effectively manage the canteen in any institution. This reduces the burden on staff as well as reduces paperwork and keeps all student records, their meals, breakfast, requirements and other essentials up-to-date.
+To develop a project that  helps us effectively manage the canteen in any institution or outsisde a institution. This reduces the burden on thw owner as the paperwork  or calculation work is reduce and other essentials to update.
 
 
 # Introduction
 
-Canteen management system will able to provide fast services to their customers by using their records which has been saved previously. However new records can be added any time whenever any customers visited to their canteen shop.
+Canteen management system will able to provide fast services to their customers by using their management system. However it can  be updated as added or deleted any time whenever any customers visited to their canteen shop.
 
 ## Features
-Canteen Management is Basically used for recording number of meals taken by the employees.  
+ Canteen Management is Basically used for recording number of meals taken by the customers.  
  We can define various meals, breakfast, tea, milk timings and according to that quantity will get calculate.  
  Managing of Visitors in canteen for canteen and company records also.  
  Easy for Calculating the exact bill of canteen vendor.  
@@ -24,37 +24,27 @@ Canteen Management is Basically used for recording number of meals taken by the 
 Provides cashless and paperless transactions
 Provides fast and efficient services
 Option for multiple caters to operate in a closed environment
-Different types of report can be taken with respect to employee consumption and with respect to daily sales 
+Different types of report can be taken with respect to customer consumption and with respect to daily sales 
 
 
 ## High level requirements
 
 For Owner Section
 
-1)Add/Delete Customer
-2)Show Customer data
-3)Enter Today’s Menu
-4)Show Response
- 
-For Customer section
+1) Login
+2) Add/Delete item
+3) Update item
 
- 5)Sign in Window
- 6)User Window
 
 ## Low level requirements
 
-1.1 Add new info of customer
-1.2 update into of customer
-1.3 delete info of customer
-2.1 search info /display
-3.1 enter new items
-3.2 Update menu
-3.3 delete menu
-4.1 display menu
-5.1 login with password
-6.1 view my profile
-6.2 search items
-6.3 order item
+
+1.1 Successful login
+2.1 Add item
+2.2 Delete item 
+3.1 edit item
+3.2 display
+3.3 Search items
  
 
 
@@ -63,7 +53,7 @@ For Customer section
 
 
 ## Who
-It can be used by the owner of the mess to update and by the employees to use it freely
+It can be used by the owner of the mess to update  and to use it freely
 
 
 
@@ -74,11 +64,11 @@ An user friendly application for used to check update in mess daily
 
 ## When
 
-As the  employees use mess  inside the company  for their food consumption they will need a management system to check today's update
+As the customers in their recess time use mess inside the company for their food consumption they will need a management system to check today's update
 
 
 ## Where
-Used in all mess centers running inside a company for employees benefits
+Used in all mess centers running inside a company for owner's benefit
 
 ## How
 It can be used in a mobile app easily or can login in a PC. 
