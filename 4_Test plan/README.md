@@ -1,6 +1,10 @@
 TEST PLAN: 
 Table no: High level test plan
+
+
 Test ID	
+
+
 H_01	Add /delete Customer data	  ---------------------  Requirement based
 
 
@@ -12,7 +16,11 @@ H_03	Login for customers        -----------------------	 Boundary based
 
 
 Table no: Low level test plan
+
+
 Test ID	
+
+
 L_01	Updating Info                ----------------------	Requirement based
 
 
