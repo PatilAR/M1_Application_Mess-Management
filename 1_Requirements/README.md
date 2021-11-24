@@ -1,11 +1,10 @@
 # Requirements
 
+## Aim
 To develop a project that  helps us effectively manage the canteen in any institution. This reduces the burden on staff as well as reduces paperwork and keeps all student records, their meals, breakfast, requirements and other essentials up-to-date.
 
 
 # Introduction
-
-## Aim
 
 Canteen management system will able to provide fast services to their customers by using their records which has been saved previously. However new records can be added any time whenever any customers visited to their canteen shop.
 
