@@ -124,7 +124,15 @@ L_02 Searching details ---------------------- Scenario based
 
 L_03 Exit ---------------------- Boundary based
 
-IMPLEMENTATION![structural di](https://user-images.githubusercontent.com/94235122/143301105-b737abee-0a4c-468c-919f-732c310b608c.png)
+IMPLEMENTATION
+
+![structural di](https://user-images.githubusercontent.com/94235122/143301105-b737abee-0a4c-468c-919f-732c310b608c.png)
+
+![Behavioural1](https://user-images.githubusercontent.com/94235122/143301206-5ed39184-254a-4b28-8715-e059d68d9ad1.png)
+
+![Behavioural2](https://user-images.githubusercontent.com/94235122/143301222-20e29e57-eab9-49ef-b0ef-d3a51661f573.png)
+
+
 
 
 
