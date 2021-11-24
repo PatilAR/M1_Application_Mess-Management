@@ -1,2 +1,3 @@
 Structural diagram
-![firstlevel](https://user-images.githubusercontent.com/94235122/143056473-fcd06408-ba46-4d25-81ee-7cecebf52087.png)
+
+![structural di](https://user-images.githubusercontent.com/94235122/143296288-eb401a9c-22cb-4655-ba4b-1f3d0d69ab5f.png)
