@@ -43,19 +43,29 @@ Low level requirements
 4W's and 1H's
 
 
-Who
+WHO
+
+
 It can be used by the owner of the mess to update and to use it freely
 
-What
+WHAT
+
+
 An user friendly application for used to check update in mess daily
 
-When
+WHEN
+
+
 As the customers in their recess time use mess inside the company for their food consumption they will need a management system to check today's update
 
-Where
+WHERE
+
+
 Used in all mess centers running inside a company for owner's benefit
 
-How
+HOW
+
+
 It can be used in a mobile app easily or can login in a PC.
 
 SWOT ANALYSIS
