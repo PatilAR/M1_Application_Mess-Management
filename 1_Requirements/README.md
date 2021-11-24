@@ -75,4 +75,4 @@ It can be used in a mobile app easily or can login in a PC.
 
 
 # SWOT Analysis
-![swot](https://user-images.githubusercontent.com/94235122/143034352-c9972df2-9a22-4c68-8b66-465b2e71d578.png)
+![swot](https://user-images.githubusercontent.com/94235122/143300442-533e40d1-f5f4-4805-bf4c-30ff98d96e39.png)
