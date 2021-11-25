@@ -1,7 +1,7 @@
 # Requirements
 
 ## Aim
-To develop a project that  helps us effectively manage the canteen in any institution or outsisde a institution. This reduces the burden on thw owner as the paperwork  or calculation work is reduce and other essentials to update.
+To develop a project that  helps us effectively manage the canteen in any institution or outsisde a institution. This reduces the burden on the owner as the paperwork  or calculation work is reduce and other essentials to update.
 
 
 # Introduction
