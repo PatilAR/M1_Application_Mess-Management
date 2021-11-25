@@ -135,4 +135,24 @@ IMPLEMENTATION
 ![behavioural3](https://user-images.githubusercontent.com/94235122/143410828-abeba00e-598c-4fc9-ae43-dce0a41059b4.png)
 
 
+OUTPUT
+
+
+![mainwindow](https://user-images.githubusercontent.com/94235122/143455292-29e3892c-0316-4360-a656-c06b1775b490.png)
+
+
+![output1](https://user-images.githubusercontent.com/94235122/143455181-36f4513c-7b5a-48da-8008-759d43bc9db7.png)
+
+
+![output6](https://user-images.githubusercontent.com/94235122/143455247-0a75fafa-fbee-48ac-a895-21c399494adf.png)
+
+![output2](https://user-images.githubusercontent.com/94235122/143455275-3b42fc35-98b2-4170-9362-83945eb8a691.png)
+
+CONCLUSION
+
+ This system is worth using in all mess/Canteen all the time as it is effective in all ways.
+
+  
+
+
 
